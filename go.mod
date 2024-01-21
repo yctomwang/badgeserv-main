@@ -17,7 +17,7 @@ require (
 	github.com/muesli/go-app-paths v0.2.2
 	github.com/pelletier/go-toml/v2 v2.0.5
 	github.com/pkg/errors v0.9.1
-	github.com/rogpeppe/go-internal v1.9.0
+	github.com/rogpeppe/go-internal v1.12.0
 	github.com/samber/lo v1.32.0
 	github.com/tdewolff/minify v2.3.6+incompatible
 	go.uber.org/zap v1.23.0
@@ -39,6 +39,7 @@ require (
 	github.com/ulikunitz/xz v0.5.10 // indirect
 	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 // indirect
 	golang.org/x/exp v0.0.0-20221012112151-59b0eab1532e // indirect
+	golang.org/x/mod v0.9.0 // indirect
 )
 
 require (
