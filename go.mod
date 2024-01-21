@@ -1,7 +1,7 @@
 module github.com/yctomwang/badgeserv
 
 require (
-	github.com/alecthomas/kong v0.6.1
+	github.com/alecthomas/kong v0.8.1
 	github.com/brpaz/echozap v1.1.3
 	github.com/deepmap/oapi-codegen v1.11.0
 	github.com/flosch/pongo2/v6 v6.0.0
